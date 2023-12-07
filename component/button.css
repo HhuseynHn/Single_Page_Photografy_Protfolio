@@ -1,0 +1,17 @@
+/** @format */
+
+.btn {
+  border-radius: 10px;
+  background: #000;
+  width: 334px;
+  height: 102px;
+  flex-shrink: 0;
+  color: #fff;
+padding: 31px 31px 31px 37px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 12.24px;
+}
